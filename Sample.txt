@@ -1,5 +1,9 @@
 this is a test
 
+<<<<<<< HEAD
 sup fuckers!
 
 shitters!
+=======
+sup fuckers!!!!
+>>>>>>> master
